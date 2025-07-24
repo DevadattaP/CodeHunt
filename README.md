@@ -64,17 +64,15 @@ Initial Screen     |  Start Code Hunt  |   First Clue      | Final Clue        |
 - Each clue with its associated location requires the coordinators to also provide the name of the cluster the location belongs to. This can be the name of the department, a landmark the location is near to, etc. No two consecutive clues displayed in the app are from same cluster. This ensures all the location a participating team has to go through is distributed through out the campus / premises.
 
 ## TODO
-- Add capability to have multiple final clues (C codes) for the same final location
-
-- Add capability to have a validation code. That is the Code Hunt cannot start / end until a coordinator enters a secret code. 
+- Add capability to have user/team logins and keep clues random/different between the teams.
+  
+- Log the scan entries of each QR for each team
 
 - Add restriction on taking screenshot, closing the app in between, background activity, etc. to avoid any misconducts during the game.
 
 - Add a central/remote server/database/controlling system which can monitor all participants and notify them about the leaderboard directly in app notifications.
 <br>
 <br>
-<br>
-
 
 # Inspired by-
 Zohaib, my senior, who developed the first version of this app.
